@@ -67,4 +67,3 @@ npx cypress run
 
 ---
 **Dibuat oleh [Griselda20](https://github.com/Griselda20)**
-```
