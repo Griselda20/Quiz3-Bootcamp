@@ -1,0 +1,9 @@
+{
+  "newCategory": {
+    "name": "Electronics New",
+    "image": "https://placehold.co/640x480.png"
+  },
+  "updateCategory": {
+    "name": "Home Appliances"
+  }
+}
